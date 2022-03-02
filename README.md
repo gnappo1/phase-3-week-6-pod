@@ -4,7 +4,7 @@ Before you start, decide who will be the driver first. Keep an eye on the time a
 
 ## Step 1
 
-- Install the [corneal-new gem](https://github.com/thebrianemory/corneal)
+- Install the [corneal-new gem](https://github.com/cjbrock/corneal-new/)
 
 ```unix
 gem install corneal-new
